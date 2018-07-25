@@ -11,6 +11,12 @@
             "program": "${file}"
         },
         {
+            "name": "Python: local 9000",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/www/app.py"
+        },
+        {
             "name": "Python: Attach",
             "type": "python",
             "request": "attach",
